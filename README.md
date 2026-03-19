@@ -1,28 +1,65 @@
-# 🌦️ WeatherSphere - Real-Time Weather Dashboard
+A modern, responsive weather application that provides real-time weather data and a 5-day forecast for any location worldwide. Built with clean JavaScript logic and API integration.
 
-![image](https://github.com/user-attachments/assets/c8b5a7e0-0ed7-4a45-9058-35e624542c6d)
+✨ Features
 
+🌡️ Real-time temperature, humidity, and wind data
 
-A sleek, responsive weather application that provides current conditions and 5-day forecasts for any location worldwide. Built with pure JavaScript and the OpenWeatherMap API.
+🌤️ Dynamic weather icons based on conditions
 
-## ✨ Features
+📅 5-day forecast with daily breakdown
 
-🌡️ **Real-time Weather Data** - Temperature, humidity, wind speed  
-🌤️ **Dynamic Weather Icons** - Visual representation of current conditions  
-📅 **5-Day Forecast** - Daily predictions with high/low temperatures  
-🌐 **Unit Conversion** - Toggle between Celsius/Fahrenheit with one click  
-🔍 **City Search** - Find weather for any location  
-📱 **Fully Responsive** - Works on all device sizes  
-🎨 **Themed Backgrounds** - Dynamic visuals based on weather conditions  
+🔍 Search weather by any city worldwide
 
-## 🚀 Quick Start
+🌐 Unit conversion (Celsius ↔ Fahrenheit)
 
-🛠️ Technical Details
-Tech Stack
-Frontend: Vanilla JavaScript (ES6+)
-Styling: Pure CSS with responsive design
-Icons: Weather Icons
-API: OpenWeatherMap
+📱 Fully responsive across mobile, tablet, and desktop
+
+🎨 Clean UI with dynamic visual feedback
+
+🚀 Live Demo
+
+👉 (Add your deployed link here later)
+
+🛠️ Tech Stack
+
+Frontend: HTML5, CSS3, JavaScript (ES6+)
+
+API: OpenWeatherMap API
+
+Storage: Browser-based (no backend required)
+
+📂 Project Structure
+weather-app/
+│── index.html
+│── style.css
+│── script.js
+⚙️ Setup Instructions
+
+Clone the repository:
+
+git clone https://github.com/Zayk22/Weather-app
+
+Open the project folder
+
+Add your OpenWeather API key inside script.js
+
+Run index.html in your browser
+
+📈 Future Improvements
+
+Add geolocation support
+
+Improve UI animations
+
+Add hourly forecast
+
+Deploy live version
+
+👤 Author
+
+Azeez Olamilekan Adeleke
+Frontend Developer
 
 📜 License
-MIT © Azeez olamilekan
+
+MIT License
